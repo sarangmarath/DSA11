@@ -1,4 +1,3 @@
-// Lab Problem 3: Evaluate Postfix Expression
 import java.util.*;
 
 public class EvaluatePostfix {

@@ -1,4 +1,3 @@
-// Lab Problem 4: Implement Stack Using List
 import java.util.*;
 
 class MyStack {

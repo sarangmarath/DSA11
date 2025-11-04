@@ -1,4 +1,3 @@
-// Lab Problem 2: Reverse a String Using Stack
 import java.util.*;
 
 public class ReverseStringStack {
